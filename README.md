@@ -1,4 +1,4 @@
-# UTBIT
+# WCGAN
 ## Prepare the data:
 1. Download CelebA dataset
 1. Place the data like the following:
